@@ -1,4 +1,3 @@
-TicTacToe_Game
 Unbeatable Artificial Intelligence Based Tic Tac Toe Game :-
 
 This project features a Tic Tac Toe game with a Human Player, a Random Computer Player, and a Smart Computer Player using the Minimax algorithm to ensure unbeatable gameplay. Enjoy challenging the AI and experiencing strategic moves. This project is an implementation of an unbeatable Tic Tac Toe game in Python. It features both human and computer players, with the computer player utilizing the minimax algorithm to ensure optimal moves, making it unbeatable.
